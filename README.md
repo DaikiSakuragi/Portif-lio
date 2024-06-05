@@ -1,13 +1,13 @@
-# Nome Completo
+# Daiki Sakuragi
 
 ![Foto ou Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsQMnrbB_AFTjPtYLqrhRx6rQ4dzNZWDWc8IYa1ePuVaQp1eoovKm-J4&s=10)
 
 ---
 
 <div>
-  <a href="https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory"><img align="center" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/></a>
-  <a href="https://github.com/DaikiSakuragi"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
-  <a href="daikisakuragi@outlook.com"><img align="center" width="40" src="https://w7.pngwing.com/pngs/495/230/png-transparent-outlook-logo.png"/></a>
+  <a align="center" href="https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory"><img  width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/></a>
+  <a align="center" href="https://github.com/DaikiSakuragi"><img  width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+  <a align="center" href="daikisakuragi@outlook.com"><img  width="40" src="https://www.liblogo.com/img-logo/ou154f186-outlook-logo-file-microsoft-office-outlook-2018-present-svg-wikimedia-commons.png"/></a>
 </div>
 
 ---
