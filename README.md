@@ -7,7 +7,7 @@
 <div>
   <a align="center" href="https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory"><img  width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/></a>
   <a align="center" href="https://github.com/DaikiSakuragi"><img  width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
-  <a align="center" href="daikisakuragi@outlook.com"><img  width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-outlook-5-1174817.png"/></a>
+  <a align="center" href="mailto:daikisakuragi@outlook.com, daikisakuragi@outlook.com,?subject=Assunto do email&cc=daikisakuragi@outlook.com&bcc=daikisakuragi@outlook.com&body=Conteúdo do e-mail que será preenchido automaticamente"><img  width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-outlook-5-1174817.png"/></a>
 </div>
 
 ---
