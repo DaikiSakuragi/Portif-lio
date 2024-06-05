@@ -2,9 +2,9 @@
 
 ![Foto ou Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsQMnrbB_AFTjPtYLqrhRx6rQ4dzNZWDWc8IYa1ePuVaQp1eoovKm-J4&s=10)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png)](https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory)
-[![GitHub](https://github.com/DaikiSakuragi)](link-para-seu-github)
-[![Email](daikisakuragi@outlook.com)](mailto:seuemail@exemplo.com)
+[![LinkedIn] img align="center" width="40" (https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png)](https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory)
+[![GitHub](https://github.com/)](https://github.com/DaikiSakuragi)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png)](https://github.com/DaikiSakuragi)
 
 ---
 
