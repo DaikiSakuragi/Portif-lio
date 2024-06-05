@@ -1,8 +1,8 @@
 # Nome Completo
 
-![Foto ou Logo](link-para-sua-foto-ou-logo)
+![Foto ou Logo]([link-para-sua-foto-ou-logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsQMnrbB_AFTjPtYLqrhRx6rQ4dzNZWDWc8IYa1ePuVaQp1eoovKm-J4&s=10))
 
-[![LinkedIn](https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory)](link-para-seu-linkedin)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png)(https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory)
 [![GitHub](https://github.com/DaikiSakuragi)](link-para-seu-github)
 [![Email](daikisakuragi@outlook.com)](mailto:seuemail@exemplo.com)
 
