@@ -2,9 +2,13 @@
 
 ![Foto ou Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsQMnrbB_AFTjPtYLqrhRx6rQ4dzNZWDWc8IYa1ePuVaQp1eoovKm-J4&s=10)
 
-[![LinkedIn] img align="center" width="40" (https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png)](https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory)
-[![GitHub](https://github.com/)](https://github.com/DaikiSakuragi)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png)](https://github.com/DaikiSakuragi)
+---
+
+<div>
+  <a href="https://br.linkedin.com/in/daiki-sakuragi?trk=people_directory"><img align="center" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/></a>
+  <a href="https://github.com/DaikiSakuragi"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+  <a href="daikisakuragi@outlook.com"><img align="center" width="40" src="https://w7.pngwing.com/pngs/495/230/png-transparent-outlook-logo.png"/></a>
+</div>
 
 ---
 
